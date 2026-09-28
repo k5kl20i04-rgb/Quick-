@@ -1,0 +1,8 @@
+{
+  "name": "Remix 3s",
+  "description": "Imported from GitHub: k5kl20i04-rgb/3s",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
